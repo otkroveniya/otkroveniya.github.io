@@ -7,6 +7,7 @@ ZeroNet: 18KaLQz3EM2xSTx5M2ZkN69YC2Et5XJoi5
 Контакты TOX: http://toxme.io/u/god-project
 
 ```
+A08313283D63B5DB5FF051A308422ACCA36F9E91
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: GnuPG v1
 
