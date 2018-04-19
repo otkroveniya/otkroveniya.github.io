@@ -1,0 +1,100 @@
+<html style="margin:0 2%; background: url(img/pole.jpg) fixed no-repeat center top; background-size: 100% 100%;">
+<head>
+<title>Откровения людям Нового века в DarkWeb</title>
+<meta name="robots" content="all" >
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="author" content="Админ">
+<meta name="copyright" content="otkroveniya.github.io">
+<meta name="description" content="Tor, ZeroNet, I2P, TOX, обход блокировок">
+<style>
+#printable {width:100%; height:100%;}
+DIV.title {width:100%; padding:0 0 2px 0; margin:10pt 0;}
+H1 {font-family:Tahoma,Arial,Helvetica,Geneva,sans-serif; font-weight:500; font-size:130%; color:#111; font-weight:600; width:100%; text-align:center; margin:0; padding:0 0 2pt 0;}
+H2 {font-family:Tahoma,Arial,Helvetica,Geneva,sans-serif; font-size:20px; padding:1pt 0 3pt 5pt; font-weight:400; margin:20pt 0 8pt 0; border-left:1px solid #333333; border-bottom:1px solid #333;}
+A {color:#111; text-decoration:underline;}
+TD {vertical-align:top;}
+TD.c0 {background-color:#bbb;}
+TD.c1 {width:7px; background-color:#bbb;}
+TD.c2 {width:100%; height:8px; background-color:#ddd;}
+DIV.hr {width:100%; height:1px; margin:16pt 0 18pt 0; border-top:1px dashed #000;}
+DIV.cont {padding:2pt 0 0 7pt; font-family:Tahoma,Arial,Helvetica,Geneva,sans-serif; font-size:18px; line-height:1.1; color:#000;}
+#print1 {width:48pt; font:16pt Arial,Helvetica,sans-serif; color:#aaa;}
+#print2 {font:16pt Arial,sans-serif; color:#aaa; text-align:center;}
+</style>
+<script type="text/javascript" src="stars.js"></script>
+</head>
+<body>
+<table id="printable" сellpadding="0" сellspacing="0">
+<tr><th rowspan="2" valign="top" id="print1"></th>
+<td id="text"><div class="title"><h1><font size="6" color="red">TOX</font></h1></div><br/>
+<center><font size="4">Децентрализованый комуникатор для анонимного и безопасного общения в интернете - альтернатива скайпа, без каких либо регистраций.<p/>
+Официальный сайт <a href="http://tox.chat/" target="_blank">http://tox.chat/</a><br/>
+Наиболее продвинутые клиенты: <br/> 
+Windows <a href="http://isotoxin.im/" target="_blank">http://isotoxin.im/</a><br/>
+Android <a href="http://play.google.com/store/apps/details?id=com.zoffcc.applications.trifa" target="_blank">http://play.google.com/store/apps/details?id=com.zoffcc.applications.trifa</a><p/>
+
+Другие TOX клиенты, под разные ОС включая мобильные версии:<br/>
+<a href="http://wiki.tox.chat/clients" target="_blank">http://wiki.tox.chat/clients</a> и <a href="http://tox.chat/download.html" target="_blank">http://tox.chat/download.html</a><br/>
+Сервис сокращения ID <a href="http://toxme.io/" target="_blank">http://toxme.io/</a><br/>
+Русскоязычные TOX чаты <a href="http://toxme.io/u/kalina" target="_blank">http://toxme.io/u/kalina</a> (добавление через бота)</font><p/> <br/>
+<hr/>
+<p/><br/>
+<div class="title"><h1><font size="6" color="red">TOR</font></h1></div><br/>
+<font size="4">
+Средство для обхода блокировок интернета, анонимного доступа в интернет и доступа к .onion сайтам.<br/>
+Готовая сборка TOR Browser<p/>
+<a title="Официальный сайт TOR Browser" href="http://www.torproject.org/projects/torbrowser.html" target="_blank">https://www.torproject.org/</a>
+</font>
+<p/> <br/>
+<hr/>
+<p/><br/>
+<div class="title"><h1><font size="6" color="red">I2P</font></h1></div><br/>
+<font size="4">
+
+Децентрализованя анонимная сеть для доступа к .i2p сайтам и другим сервисам. <p/>
+Java версия <a href="http://geti2p.net/ru/" title="Официальный сайт" target="_blank">http://geti2p.net/ru/</a><br/>
+
+С++ версия <a href="http://i2pd.website/" title="Официальный сайт" target="_blank">http://i2pd.website/</a>, <a href="http://github.com/PurpleI2P/i2pd/releases" title="GitHub" target="_blank">http://github.com/PurpleI2P/i2pd/releases</a><p/>
+
+
+<pre align="left">
+
+Запуск I2P в портативном режиме:
+Z:\soft\i2p\I2Psvc.exe -c Z:\soft\i2p\wrapper.config
+
+В wrapper.config заменить пути к файлам и папкам: 
+set.JAVA_HOME=Z:/soft/jre
+wrapper.java.command=Z:/soft/jre/bin
+wrapper.java.command=Z:/soft/jre/bin
+set.JAVA_HOME=Z:/soft/jre
+wrapper.java.command=%JAVA_HOME%/bin/java.exe
+wrapper.java.classpath.1=Z:/soft/i2p/lib/*.jar
+wrapper.java.library.path.1=Z:/soft/i2p
+wrapper.java.library.path.2=Z:/soft/i2p/lib
+wrapper.java.additional.2=-Di2p.dir.base="Z:/soft/i2p"
+#wrapper.java.additional.3=-Di2p.dir.pid="Z:/soft/i2p"
+#wrapper.java.additional.4=-Di2p.dir.temp="Z:/soft/i2p"
+#wrapper.java.additional.5=-Di2p.dir.config="Z:/soft/i2p"
+wrapper.logfile=Z:/soft/i2p/wrapper.log
+wrapper.syslog.logfile=Z:/soft/i2p/syslog.log
+</pre>
+</font>
+<p/> <br/>
+<hr/>
+<p/><br/>
+<div class="title"><h1><font size="6" color="red">ZeroNet</font></h1></div><br/>
+<font size="4">
+Децентрализованые сайты, на подобии торрента<p/>
+
+<a href="http://zeronet.io/" title="Официальный сайт" target="_blank">http://zeronet.io/</a><br/>
+<a href="http://github.com/HelloZeroNet/ZeroBundle/releases" title="GitHub" target="_blank">http://github.com/HelloZeroNet/ZeroBundle/releases</a>
+
+
+</font>
+</center>
+<!--otkroveniya.github.io-->
+<!--ZeroNet:18KaLQz3EM2xSTx5M2ZkN69YC2Et5XJoi5-->
+<!--h5xnvrg53i2zvhwj.onion-->
+<tr><td id="print2"><br/><a title="На главную" href="index.html"><h4>Откровения людям Нового века</h4></a><p/>
+</td></tr></table>
+</body></html>

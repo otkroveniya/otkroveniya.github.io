@@ -1,5 +1,6 @@
 <HTML>
  <HEAD>
+<meta name="robots" content="all">
 <meta name="copyright" content="otkroveniya.github.io">
   <!-- Sitemap 1.0 -->
  </HEAD>
@@ -5360,7 +5361,7 @@
 </UL>
  <LI><OBJECT type="text/sitemap">
   <PARAM name="Name" value="2017">
-  <PARAM name="Local" value="2017/index.html">
+  <PARAM name="Local" value="2017/poems/index.html">
   <PARAM name="ImageNumber" value="1">
  </OBJECT>
 <UL>
@@ -6487,7 +6488,7 @@
   <PARAM name="Name" value="30.09.17 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Iuml;&icirc;&ntilde;&acirc;&yuml;&ugrave;&aring;&iacute;&egrave;&aring;”">
   <PARAM name="Local" value="2017/poems/30_09_17.html">
  </OBJECT>
-  <LI><OBJECT type="text/sitemap">
+ <LI><OBJECT type="text/sitemap">
   <PARAM name="Name" value="01.10.17 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Iuml;&eth;&icirc;&igrave;&ucirc;&ntilde;&aring;&euml; &Iuml;&aring;&eth;&acirc;&ucirc;&otilde;”">
   <PARAM name="Local" value="2017/poems/01_10_17.html">
  </OBJECT>
@@ -6611,7 +6612,7 @@
   <PARAM name="Name" value="31.10.17 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Egrave;&ccedil;&igrave;&aring;&iacute;&aring;&iacute;&egrave;&yuml; &acirc;&iacute;&oacute;&ograve;&eth;&egrave; &egrave; &acirc;&iacute;&aring;!”">
   <PARAM name="Local" value="2017/poems/31_10_17.html">
  </OBJECT>
-  <LI><OBJECT type="text/sitemap">
+ <LI><OBJECT type="text/sitemap">
   <PARAM name="Name" value="01.11.17 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Iuml;&icirc;&eth;&agrave;”">
   <PARAM name="Local" value="2017/poems/01_11_17.html">
  </OBJECT>
@@ -6732,16 +6733,523 @@
   <PARAM name="Local" value="2017/poems/30_11_17.html">
  </OBJECT>
  <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="01.12.17 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Yacute;&iuml;&egrave;&euml;&icirc;&atilde;”">
+  <PARAM name="Local" value="2017/poems/01_12_17.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="02.12.17 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Iuml;&eth;&icirc;&auml;&icirc;&euml;&aelig;&aring;&iacute;&egrave;&aring;”">
+  <PARAM name="Local" value="2017/poems/02_12_17.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="03.12.17 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Iuml;&eth;&egrave;&divide;&egrave;&iacute;&ucirc; &egrave; &ntilde;&euml;&aring;&auml;&ntilde;&ograve;&acirc;&egrave;&yuml;”">
+  <PARAM name="Local" value="2017/poems/03_12_17.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="04.12.17 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&times;&ograve;&icirc; &auml;&aring;&euml;&agrave;&ograve;&uuml;?”">
+  <PARAM name="Local" value="2017/poems/04_12_17.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="05.12.17 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Aring;&ugrave;&cedil; &iacute;&egrave;&divide;&aring;&atilde;&icirc; &iacute;&aring;&ograve;!”">
+  <PARAM name="Local" value="2017/poems/05_12_17.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="06.12.17 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Iacute;&aring;&ccedil;&agrave;&acirc;&egrave;&ntilde;&egrave;&igrave;&icirc;&ntilde;&ograve;&uuml;?”">
+  <PARAM name="Local" value="2017/poems/06_12_17.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="07.12.17 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Ecirc;&icirc;&iacute;&ouml;&aring;&iacute;&ograve;&eth;&agrave;&ouml;&egrave;&yuml;”">
+  <PARAM name="Local" value="2017/poems/07_12_17.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="08.12.17 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Ntilde;&euml;&icirc;&aelig;&iacute;&icirc;, &iacute;&icirc; &acirc;&ucirc;&otilde;&icirc;&auml; &egrave;&igrave;&aring;&aring;&ograve;&ntilde;&yuml;!”">
+  <PARAM name="Local" value="2017/poems/08_12_17.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="09.12.17 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Ccedil;&agrave;&auml;&agrave;&divide;&agrave;”">
+  <PARAM name="Local" value="2017/poems/09_12_17.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="10.12.17 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Igrave;&egrave;&ntilde;&ntilde;&egrave;&yuml;”">
+  <PARAM name="Local" value="2017/poems/10_12_17.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="11.12.17 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Atilde;&euml;&agrave;&ccedil;&agrave; &Ntilde;&oacute;&auml;&uuml;&aacute;&ucirc;”">
+  <PARAM name="Local" value="2017/poems/11_12_17.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="12.12.17 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Aring;&acirc;&eth;&icirc;&iuml;&agrave; &egrave; &ecirc;&eth;&egrave;&ccedil;&egrave;&ntilde;”">
+  <PARAM name="Local" value="2017/poems/12_12_17.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="13.12.17 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Ecirc;&eth;&agrave;&ntilde;&ecirc;&egrave;”">
+  <PARAM name="Local" value="2017/poems/13_12_17.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="14.12.17 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Acirc;&icirc;&eacute;&iacute;&ucirc;”">
+  <PARAM name="Local" value="2017/poems/14_12_17.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="15.12.17 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Ecirc; &Dstrok;&icirc;&ntilde;&ntilde;&egrave;&egrave; (&divide;&agrave;&ntilde;&ograve;&uuml; 1)”">
+  <PARAM name="Local" value="2017/poems/15_12_17.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="16.12.17 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Iacute;&icirc;&acirc;&icirc;&aring; &acirc;&eth;&aring;&igrave;&yuml;?”">
+  <PARAM name="Local" value="2017/poems/16_12_17.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="17.12.17 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Iuml;&icirc;&auml;&icirc;&aacute;&egrave;&aring; &Acirc;&aring;&divide;&iacute;&icirc;&ntilde;&ograve;&egrave;”">
+  <PARAM name="Local" value="2017/poems/17_12_17.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="18.12.17 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Ntilde;&oacute;&auml;&uuml;&aacute;&agrave;”">
+  <PARAM name="Local" value="2017/poems/18_12_17.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="19.12.17 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Acirc;&icirc;&ccedil;&acirc;&eth;&agrave;&ugrave;&aring;&iacute;&egrave;&aring;”">
+  <PARAM name="Local" value="2017/poems/19_12_17.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="20.12.17 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Icirc;&Ecirc;&Ograve;&Agrave;&Yacute;&Auml;&Dstrok;”">
+  <PARAM name="Local" value="2017/poems/20_12_17.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="21.12.17 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Iuml;&eth;&aring;&icirc;&aacute;&eth;&agrave;&aelig;&aring;&iacute;&egrave;&aring; &divide;&aring;&euml;&icirc;&acirc;&aring;&divide;&aring;&ntilde;&ograve;&acirc;&agrave;”">
+  <PARAM name="Local" value="2017/poems/21_12_17.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="22.12.17 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Dstrok;&icirc;&ntilde;&ntilde;&egrave;&yuml; &iuml;&eth;&icirc;&ntilde;&ucirc;&iuml;&agrave;&aring;&ograve;&ntilde;&yuml;!”">
+  <PARAM name="Local" value="2017/poems/22_12_17.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="23.12.17 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Icirc;&aelig;&egrave;&auml;&agrave;&iacute;&egrave;&aring;”">
+  <PARAM name="Local" value="2017/poems/23_12_17.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="24.12.17 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Ecirc;&icirc;&iacute;&aring;&ouml; &iacute;&agrave;&ntilde;&egrave;&euml;&egrave;&thorn;”">
+  <PARAM name="Local" value="2017/poems/24_12_17.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="25.12.17 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Acirc;&Aring;&times;&Aring;”">
+  <PARAM name="Local" value="2017/poems/25_12_17.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="26.12.17 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Iuml;&eth;&egrave;&eth;&icirc;&auml;&agrave;”">
+  <PARAM name="Local" value="2017/poems/26_12_17.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="27.12.17 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Euml;&thorn;&auml;&egrave;, &Iuml;&eth;&egrave;&eth;&icirc;&auml;&agrave; &egrave; &Aacute;&icirc;&atilde;!”">
+  <PARAM name="Local" value="2017/poems/27_12_17.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="28.12.17 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Iuml;&eth;&icirc;&igrave;&ucirc;&ntilde;&aring;&euml;”">
+  <PARAM name="Local" value="2017/poems/28_12_17.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="29.12.17 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Iuml;&icirc;&ntilde;&acirc;&yuml;&ugrave;&aring;&iacute;&egrave;&aring;”">
+  <PARAM name="Local" value="2017/poems/29_12_17.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="30.12.17 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Egrave;&iacute;&egrave;&ouml;&egrave;&agrave;&ograve;&egrave;&acirc;&agrave;”">
+  <PARAM name="Local" value="2017/poems/30_12_17.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="31.12.17 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Egrave;&Ograve;&Icirc;&Atilde;&Egrave;”">
+  <PARAM name="Local" value="2017/poems/31_12_17.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="31.12.17 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Iuml;&icirc;&ntilde;&euml;&aring;&auml;&iacute;&aring;&aring; &iacute;&agrave;&iuml;&oacute;&ograve;&ntilde;&ograve;&acirc;&egrave;&aring;!”">
+  <PARAM name="Local" value="2017/poems/31.12.17_2.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
   <PARAM name="Name" value="&Ecirc;&agrave;&ograve;&eth;&aring;&iacute;&ucirc; &ccedil;&agrave; 2017 &atilde;&icirc;&auml;">
   <PARAM name="Local" value="2017/poems/index.html">
   <PARAM name="ImageNumber" value="19">
  </OBJECT>
 </UL>
+</UL>
  <LI><OBJECT type="text/sitemap">
-  <PARAM name="Name" value="&Auml;&egrave;&ecirc;&ograve;&icirc;&acirc;&ecirc;&egrave; &ccedil;&agrave; 2017 &atilde;&icirc;&auml; &icirc;&ograve;&ntilde;&oacute;&ograve;&ntilde;&ograve;&acirc;&oacute;&thorn;&ograve;">
-  <PARAM name="Local" value="2017/index.html">
+  <PARAM name="Name" value="2018">
+  <PARAM name="Local" value="2018/poems/index.html">
+  <PARAM name="ImageNumber" value="1">
+ </OBJECT>
+<UL>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="&Ecirc;&agrave;&ograve;&eth;&aring;&iacute;&ucirc;">
+  <PARAM name="Local" value="2018/poems/index.html">
+  <PARAM name="ImageNumber" value="1">
+ </OBJECT>
+<UL>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="&Acirc;&aring;&eth;&ntilde;&egrave;&yuml; &acirc; RTF (MSWord)">
+  <PARAM name="Local" value="2018/poems/otkr_k2018.rtf">
+  <PARAM name="ImageNumber" value="39">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="01.01.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Yacute;&ograve;&agrave;&iuml;&ucirc; &Yacute;&iuml;&icirc;&otilde;&egrave;!”">
+  <PARAM name="Local" value="2018/poems/01_01_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="02.01.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Acirc;&iuml;&aring;&eth;&cedil;&auml; &Dstrok;&icirc;&ntilde;&ntilde;&egrave;&yuml;!”">
+  <PARAM name="Local" value="2018/poems/02_01_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="03.01.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Iacute;&agrave;&auml; &iuml;&eth;&icirc;&iuml;&agrave;&ntilde;&ograve;&uuml;&thorn;”">
+  <PARAM name="Local" value="2018/poems/03_01_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="04.01.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Iuml;&oacute;&ograve;&uuml; &divide;&aring;&euml;&icirc;&acirc;&aring;&divide;&aring;&ntilde;&ograve;&acirc;&agrave;”">
+  <PARAM name="Local" value="2018/poems/04_01_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="05.01.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Dstrok;&agrave;&ccedil;&igrave;&ucirc;&oslash;&euml;&aring;&iacute;&egrave;&yuml; &acirc; &ecirc;&agrave;&iacute;&egrave;&ecirc;&oacute;&euml;&ucirc;”">
+  <PARAM name="Local" value="2018/poems/05_01_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="06.01.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Ccedil;&agrave;&acirc;&ograve;&eth;&agrave;?”">
+  <PARAM name="Local" value="2018/poems/06_01_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="07.01.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&times;&aring;&euml;&icirc;&acirc;&aring;&ecirc; – &divide;&agrave;&ntilde;&ograve;&uuml; &Ntilde;&icirc;&ccedil;&auml;&agrave;&ograve;&aring;&euml;&yuml;”">
+  <PARAM name="Local" value="2018/poems/07_01_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="08.01.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Icirc;&ograve;&iuml;&oacute;&ugrave;&aring;&iacute;&egrave;&aring;”">
+  <PARAM name="Local" value="2018/poems/08_01_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="09.01.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Igrave;&oacute;&auml;&eth;&icirc;&ntilde;&ograve;&uuml;”">
+  <PARAM name="Local" value="2018/poems/09_01_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="10.01.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Oacute;&ntilde;&ecirc;&icirc;&eth;&aring;&iacute;&egrave;&aring;”">
+  <PARAM name="Local" value="2018/poems/10_01_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="11.01.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Iuml;&euml;&agrave;&iacute;&aring;&ograve;&agrave; &egrave; &euml;&thorn;&auml;&egrave;”">
+  <PARAM name="Local" value="2018/poems/11_01_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="12.01.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Auml;&oacute;&oslash;&aring;&acirc;&iacute;&icirc;&ntilde;&ograve;&uuml;”">
+  <PARAM name="Local" value="2018/poems/12_01_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="13.01.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Auml;&oacute;&otilde;&icirc;&acirc;&iacute;&icirc;&ntilde;&ograve;&uuml;”">
+  <PARAM name="Local" value="2018/poems/13_01_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="14.01.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Iacute;&icirc;&acirc;&ucirc;&eacute; &atilde;&icirc;&auml;!”">
+  <PARAM name="Local" value="2018/poems/14_01_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="15.01.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Ntilde;&ograve;&oacute;&iuml;&aring;&iacute;&egrave;”">
+  <PARAM name="Local" value="2018/poems/15_01_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="16.01.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Acirc;&ntilde;&aring; &ccedil;&agrave; &icirc;&auml;&iacute;&icirc;&atilde;&icirc;!”">
+  <PARAM name="Local" value="2018/poems/16_01_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="17.01.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Acirc;&ntilde;&aring;, &ecirc;&agrave;&ecirc; &icirc;&auml;&egrave;&iacute;”">
+  <PARAM name="Local" value="2018/poems/17_01_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="18.01.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Ograve;&agrave;&eacute;&iacute;&agrave; &Iacute;&aring;&aacute;&agrave;”">
+  <PARAM name="Local" value="2018/poems/18_01_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="19.01.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Ecirc;&icirc;&igrave;&agrave;&iacute;&auml;&agrave; &Aacute;&icirc;&atilde;&agrave;”">
+  <PARAM name="Local" value="2018/poems/19_01_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="20.01.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Iuml;&icirc;&ntilde;&ucirc;&euml; &iacute;&agrave; &Euml;&thorn;&aacute;&icirc;&acirc;&uuml;”">
+  <PARAM name="Local" value="2018/poems/20_01_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="21.01.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Ocirc;&egrave;&euml;&icirc;&ntilde;&icirc;&ocirc;&egrave;&yuml; &aelig;&egrave;&ccedil;&iacute;&egrave;”">
+  <PARAM name="Local" value="2018/poems/21_01_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="22.01.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Egrave;&ntilde;&ograve;&icirc;&eth;&egrave;&yuml; &divide;&aring;&euml;&icirc;&acirc;&aring;&divide;&aring;&ntilde;&ograve;&acirc;&agrave;”">
+  <PARAM name="Local" value="2018/poems/22_01_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="23.01.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Iacute;&agrave;&oacute;&ecirc;&agrave; &egrave; &egrave;&iacute;&ocirc;&icirc;&eth;&igrave;&agrave;&ouml;&egrave;&yuml;”">
+  <PARAM name="Local" value="2018/poems/23_01_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="24.01.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Euml;&egrave;&eth;&egrave;&ecirc;&agrave;”">
+  <PARAM name="Local" value="2018/poems/24_01_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="25.01.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Iuml;&icirc;&atilde;&icirc;&auml;&agrave;”">
+  <PARAM name="Local" value="2018/poems/25_01_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="26.01.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Iacute;&agrave;&auml;&aring;&aelig;&auml;&agrave;”">
+  <PARAM name="Local" value="2018/poems/26_01_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="27.01.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Acirc;&ucirc;&aacute;&icirc;&eth;”">
+  <PARAM name="Local" value="2018/poems/27_01_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="28.01.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Oacute;&divide;&cedil;&iacute;&ucirc;&aring;”">
+  <PARAM name="Local" value="2018/poems/28_01_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="29.01.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Iacute;&aring;&auml;&icirc;&igrave;&icirc;&atilde;&agrave;&iacute;&egrave;&aring;”">
+  <PARAM name="Local" value="2018/poems/29_01_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="30.01.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Igrave;&atilde;&iacute;&icirc;&acirc;&aring;&iacute;&egrave;&yuml;”">
+  <PARAM name="Local" value="2018/poems/30_01_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="31.01.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Otilde;&eth;&icirc;&iacute;&egrave;&divide;&aring;&ntilde;&ecirc;&agrave;&yuml; &oacute;&ntilde;&ograve;&agrave;&euml;&icirc;&ntilde;&ograve;&uuml;”">
+  <PARAM name="Local" value="2018/poems/31_01_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="01.02.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Icirc;&aelig;&egrave;&auml;&agrave;&iacute;&egrave;&aring;”">
+  <PARAM name="Local" value="2018/poems/01_02_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="02.02.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Ecirc;&euml;&aring;&ograve;&ecirc;&egrave;”">
+  <PARAM name="Local" value="2018/poems/02_02_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="03.02.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Dstrok;&aring;&ocirc;&icirc;&eth;&igrave;&ucirc;”">
+  <PARAM name="Local" value="2018/poems/03_02_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="04.02.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Iuml;&icirc;&ntilde;&euml;&aring;&auml;&ntilde;&ograve;&acirc;&egrave;&yuml;”">
+  <PARAM name="Local" value="2018/poems/04_02_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="05.02.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Icirc;&aacute;&ntilde;&ograve;&icirc;&yuml;&ograve;&aring;&euml;&uuml;&ntilde;&ograve;&acirc;&agrave;”">
+  <PARAM name="Local" value="2018/poems/05_02_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="06.02.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Ocirc;&agrave;&ecirc;&ograve;&ucirc;”">
+  <PARAM name="Local" value="2018/poems/06_02_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="07.02.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Atilde;&icirc;&ograve;&icirc;&acirc;&iacute;&icirc;&ntilde;&ograve;&uuml;”">
+  <PARAM name="Local" value="2018/poems/07_02_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="08.02.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Ntilde;&iuml;&euml;&icirc;&divide;&cedil;&iacute;&iacute;&icirc;&ntilde;&ograve;&uuml;”">
+  <PARAM name="Local" value="2018/poems/08_02_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="09.02.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Icirc;&ntilde;&aring;&iacute;&uuml; – &ntilde;&aacute;&icirc;&eth; &oacute;&eth;&icirc;&aelig;&agrave;&yuml;”">
+  <PARAM name="Local" value="2018/poems/09_02_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="10.02.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&times;&aring;&euml;&icirc;&acirc;&aring;&ecirc;”">
+  <PARAM name="Local" value="2018/poems/10_02_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="11.02.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Icirc;&auml;&aring;&aelig;&auml;&agrave;”">
+  <PARAM name="Local" value="2018/poems/11_02_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="12.02.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Egrave;&ntilde;&ograve;&egrave;&iacute;&agrave;”">
+  <PARAM name="Local" value="2018/poems/12_02_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="13.02.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Igrave;&icirc;&auml;&aring;&euml;&uuml;”">
+  <PARAM name="Local" value="2018/poems/13_02_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="14.02.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Iacute;&agrave;&eth;&icirc;&auml;?”">
+  <PARAM name="Local" value="2018/poems/14_02_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="15.02.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Ccedil;&auml;&icirc;&eth;&icirc;&acirc;&agrave;&yuml; &iacute;&agrave;&ouml;&egrave;&yuml;”">
+  <PARAM name="Local" value="2018/poems/15_02_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="16.02.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Ntilde;&euml;&aring;&auml;&ntilde;&ograve;&acirc;&egrave;&aring;”">
+  <PARAM name="Local" value="2018/poems/16_02_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="17.02.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Iacute;&agrave;&eth;&icirc;&auml;”">
+  <PARAM name="Local" value="2018/poems/17_02_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="18.02.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Ecirc;&eth;&oacute;&ograve;&icirc;&eacute; &iuml;&icirc;&acirc;&icirc;&eth;&icirc;&ograve;”">
+  <PARAM name="Local" value="2018/poems/18_02_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="19.02.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Iuml;&eth;&aring;&auml;&euml;&icirc;&aelig;&aring;&iacute;&egrave;&eacute; &igrave;&iacute;&icirc;&atilde;&icirc;, &iacute;&icirc;…”">
+  <PARAM name="Local" value="2018/poems/19_02_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="20.02.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Ecirc;&ograve;&icirc; &Iuml;&eth;&aring;&ccedil;&egrave;&auml;&aring;&iacute;&ograve;?”">
+  <PARAM name="Local" value="2018/poems/20_02_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="21.02.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Ntilde;&ograve;&eth;&agrave;&ograve;&aring;&atilde;&egrave;&divide;&aring;&ntilde;&ecirc;&egrave;&eacute; &acirc;&ucirc;&aacute;&icirc;&eth;”">
+  <PARAM name="Local" value="2018/poems/21_02_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="22.02.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Acirc;&ucirc;&aacute;&icirc;&eth;&ucirc;”">
+  <PARAM name="Local" value="2018/poems/22_02_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="23.02.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Acirc;&aring;&eth;&agrave; &egrave; &Ntilde;&egrave;&euml;&agrave;…”">
+  <PARAM name="Local" value="2018/poems/23_02_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="24.02.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Ntilde;&oacute;&aring;&ograve;&agrave; &iuml;&aring;&eth;&aring;&otilde;&icirc;&auml;&agrave;”">
+  <PARAM name="Local" value="2018/poems/24_02_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="25.02.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Ntilde;&icirc;&aacute;&ucirc;&ograve;&egrave;&yuml;”">
+  <PARAM name="Local" value="2018/poems/25_02_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="26.02.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Ograve;&egrave;&oslash;&egrave;&iacute;&agrave;”">
+  <PARAM name="Local" value="2018/poems/26_02_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="27.02.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Ograve;&egrave;&oslash;&egrave;&iacute;&agrave; &auml;&agrave;&cedil;&ograve;&ntilde;&yuml; &iuml;&icirc;&auml;&oacute;&igrave;&agrave;&ograve;&uuml;”">
+  <PARAM name="Local" value="2018/poems/27_02_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="28.02.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Egrave;&ccedil;&igrave;&aring;&iacute;&aring;&iacute;&egrave;&yuml;”">
+  <PARAM name="Local" value="2018/poems/28_02_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="01.03.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Acirc;&Aring;&Ntilde;&Iacute;&Agrave;”">
+  <PARAM name="Local" value="2018/poems/01_03_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="02.03.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Ecirc;&icirc;&iacute;&ograve;&eth;&agrave;&ntilde;&ograve;&iacute;&ucirc;&eacute; &auml;&oacute;&oslash;”">
+  <PARAM name="Local" value="2018/poems/02_03_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="03.03.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Ecirc;&icirc;&iacute;&ntilde;&ograve;&eth;&oacute;&ecirc;&ouml;&egrave;&yuml;”">
+  <PARAM name="Local" value="2018/poems/03_03_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="04.03.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Oslash;&agrave;&atilde; &Iuml;&eth;&aring;&ccedil;&egrave;&auml;&aring;&iacute;&ograve;&agrave;”">
+  <PARAM name="Local" value="2018/poems/04_03_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="05.03.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Icirc;&aelig;&egrave;&auml;&agrave;&iacute;&egrave;&yuml;”">
+  <PARAM name="Local" value="2018/poems/05_03_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="06.03.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Iacute;&icirc;&acirc;&ucirc;&aring; &acirc;&eth;&aring;&igrave;&aring;&iacute;&agrave;”">
+  <PARAM name="Local" value="2018/poems/06_03_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="07.03.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Iacute;&agrave;&ouml;&egrave;&yuml; &egrave; &ntilde;&ograve;&eth;&agrave;&iacute;&agrave;”">
+  <PARAM name="Local" value="2018/poems/07_03_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="08.03.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Egrave;&igrave;&iuml;&aring;&eth;&egrave;&yuml;”">
+  <PARAM name="Local" value="2018/poems/08_03_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="09.03.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Iuml;&icirc;&ccedil;&egrave;&ouml;&egrave;&yuml;”">
+  <PARAM name="Local" value="2018/poems/09_03_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="10.03.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Ntilde;&ograve;&eth;&agrave;&iacute;&agrave; &egrave; &ntilde;&aring;&igrave;&uuml;&yuml;!”">
+  <PARAM name="Local" value="2018/poems/10_03_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="11.03.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Iuml;&eth;&icirc;&atilde;&eth;&agrave;&igrave;&igrave;&agrave;”">
+  <PARAM name="Local" value="2018/poems/11_03_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="12.03.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Iuml;&eth;&icirc;&atilde;&eth;&agrave;&igrave;&igrave;&agrave;–2”">
+  <PARAM name="Local" value="2018/poems/12_03_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="13.03.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Dstrok;&icirc;&auml;&egrave;&iacute;&agrave;!”">
+  <PARAM name="Local" value="2018/poems/13_03_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="14.03.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Acirc;&ucirc;&aacute;&icirc;&eth;”">
+  <PARAM name="Local" value="2018/poems/14_03_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="15.03.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Acirc;&aring;&ntilde;&iacute;&agrave; &Dstrok;&icirc;&ntilde;&ntilde;&egrave;&egrave;”">
+  <PARAM name="Local" value="2018/poems/15_03_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="16.03.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Iuml;&eth;&aring;&auml;&oacute;&iuml;&eth;&aring;&aelig;&auml;&aring;&iacute;&egrave;&aring;”">
+  <PARAM name="Local" value="2018/poems/16_03_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="17.03.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Ograve;&egrave;&oslash;&egrave;&iacute;&agrave;”">
+  <PARAM name="Local" value="2018/poems/17_03_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="18.03.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Ntilde;&acirc;&yuml;&ograve;&agrave;&yuml; &Dstrok;&oacute;&ntilde;&uuml;”">
+  <PARAM name="Local" value="2018/poems/18_03_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="19.03.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Euml;&aring;&ograve;&icirc;”">
+  <PARAM name="Local" value="2018/poems/19_03_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="20.03.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Iacute;&icirc;&acirc;&ucirc;&eacute; &igrave;&egrave;&eth;”">
+  <PARAM name="Local" value="2018/poems/20_03_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="21.03.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Dstrok;&agrave;&acirc;&iacute;&icirc;&auml;&aring;&iacute;&ntilde;&ograve;&acirc;&egrave;&aring;”">
+  <PARAM name="Local" value="2018/poems/21_03_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="22.03.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Iuml;&eth;&icirc;&ograve;&egrave;&acirc;&icirc;&ntilde;&ograve;&icirc;&yuml;&iacute;&egrave;&aring;”">
+  <PARAM name="Local" value="2018/poems/22_03_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="23.03.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Acirc;&aring;&euml;&egrave;&ecirc;&egrave;&eacute; &iuml;&euml;&agrave;&iacute;”">
+  <PARAM name="Local" value="2018/poems/23_03_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="24.03.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&laquo;&die;&aelig;&egrave;&ecirc; &acirc; &ograve;&oacute;&igrave;&agrave;&iacute;&aring;&raquo;”">
+  <PARAM name="Local" value="2018/poems/24_03_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="25.03.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&times;&aring;&euml;&icirc;&acirc;&aring;&ecirc;”">
+  <PARAM name="Local" value="2018/poems/25_03_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="26.03.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&times;&aring;&euml;&icirc;&acirc;&aring;&divide;&aring;&ntilde;&ograve;&acirc;&icirc;”">
+  <PARAM name="Local" value="2018/poems/26_03_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="27.03.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Auml;&acirc;&aring; &Igrave;&icirc;&iacute;&agrave;&eth;&otilde;&egrave;&egrave;”">
+  <PARAM name="Local" value="2018/poems/27_03_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="28.03.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Egrave;&ntilde;&ograve;&icirc;&eth;&egrave;&divide;&aring;&ntilde;&ecirc;&icirc;&aring; &ntilde;&eth;&agrave;&aelig;&aring;&iacute;&egrave;&aring;”">
+  <PARAM name="Local" value="2018/poems/28_03_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="29.03.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Iuml;&eth;&icirc;&ograve;&egrave;&acirc;&icirc;&ntilde;&ograve;&icirc;&yuml;&iacute;&egrave;&aring;”">
+  <PARAM name="Local" value="2018/poems/29_03_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="30.03.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Ntilde;&ograve;&eth;&agrave;&iacute;&agrave;”">
+  <PARAM name="Local" value="2018/poems/30_03_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="31.03.18 &Ecirc;&agrave;&ograve;&eth;&aring;&iacute; “&Dstrok;&aring;&oslash;&aring;&iacute;&egrave;&aring;?”">
+  <PARAM name="Local" value="2018/poems/31_03_18.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="&Ecirc;&agrave;&ograve;&eth;&aring;&iacute;&ucirc; &ccedil;&agrave; 2018 &atilde;&icirc;&auml;">
+  <PARAM name="Local" value="2018/poems/index.html">
   <PARAM name="ImageNumber" value="19">
  </OBJECT>
+</UL>
 </UL>
  <LI><OBJECT type="text/sitemap">
   <PARAM name="Name" value="&Ecirc;&icirc;&iacute;&ograve;&agrave;&ecirc;&ograve;&ucirc;">
