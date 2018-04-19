@@ -1,7 +1,10 @@
 #"Откровения людям Нового века" - автономная база всех диктовок!<br/>
-Бывшие сайты www.otkroveniya.com и www.otkroveniya.tk ныне otkroveniya.github.io<br/>
 
-TOX: http://toxme.io/u/god-project
+otkroveniya.github.io h5xnvrg53i2zvhwj.onion
+ZeroNet: 18KaLQz3EM2xSTx5M2ZkN69YC2Et5XJoi5
+
+
+Контакты TOX: http://toxme.io/u/god-project
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
