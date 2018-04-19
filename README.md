@@ -1,6 +1,6 @@
 #"Откровения людям Нового века" - автономная база всех диктовок!
 
-Сайты: otkroveniya.github.io и h5xnvrg53i2zvhwj.onion
+Сайты: otkroveniya.github.io и h5xnvrg53i2zvhwj.onion<br/>
 ZeroNet: 18KaLQz3EM2xSTx5M2ZkN69YC2Et5XJoi5
 
 
